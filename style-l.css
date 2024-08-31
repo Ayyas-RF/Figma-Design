@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(135deg, #6DD5FA, #2980B9);
+}
+
+h1, h2 {
+    font-family: 'Arial', sans-serif;
+}
+
+#login-form .form-control {
+    border-radius: 0.25rem;
+}
+
+.btn-primary {
+    background-color: #3498db;
+    border-color: #3498db;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9;
+    border-color: #2980b9;
+}
+
+.img-fluid {
+    width: 512rem;
+}
